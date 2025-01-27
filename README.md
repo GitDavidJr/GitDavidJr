@@ -11,4 +11,6 @@
 - 📫 How to reach me: [WhatsApp](https://wa.me/5573999790835?text=Ola,%20vim%20pelo%20GitHub) or **davidjunior051204@gmail.com**.
 ## 📊 GitHub Stats:
 ### 🚀 GitHub Profile Overview:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitDavidJr)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitDavidJr&theme=tokyonight&show_icons=true&hide_title=true)]
+### 🛠️ Languages Used:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitDavidJr&theme=tokyonight&show_icons=true&hide_title=true)]
