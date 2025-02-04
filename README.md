@@ -7,7 +7,15 @@
 - 👯 I’m looking to collaborate on **backend** and **frontend integration** projects.
 - 🤔 I’m looking for help with **advanced JavaScript** and **React best practices**.
 - 💬 Ask me about **programming languages** like **JavaScript, Python, Kotlin and Java**
-- 📫 How to reach me: [WhatsApp](https://wa.me/5573999790835?text=Ola,%20vim%20pelo%20GitHub) or **davidjunior051204@gmail.com**.
+
+
+
+<div> 
+  <a href="https://instagram.com/davidjr0516" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/wjhx4sbN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:davidjunior051204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## 💻 Tech Stack:
 <div style="display: inline_block"><br>
@@ -22,17 +30,4 @@
 </div>
 
 ## 📊 GitHub Stats:
-### 🚀 GitHub Profile Overview:                                  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitDavidJr&theme=tokyonight&show_icons=true&hide_title=true)
-### 🛠️ Languages Used:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitDavidJr&theme=tokyonight&show_icons=true&hide_title=true&layout=compact)
-
-##
- 
-<div> 
-  <a href="https://instagram.com/davidjr0516" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wjhx4sbN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:davidjunior051204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GitDavidJr&theme=tokyonight&show_icons=true&hide_title=true" alt="Anurag's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitDavidJr&theme=tokyonight&show_icons=true&hide_title=false&layout=compact" /></a>
