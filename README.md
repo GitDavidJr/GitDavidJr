@@ -23,20 +23,6 @@ focus:
 
 ---
 
-## 🎯 Areas of Expertise
-
-| Domain | Stack |
-|--------|-------|
-| 🏛️ **Backend & APIs** | TypeScript · Node.js · Fastify · NestJS · Go/Gin · Python · PHP/Laravel · Spring |
-| 🎨 **Frontend** | React · Next.js · Vue.js · Nuxt · Tailwind CSS · Shadcn/UI |
-| 🔄 **Messaging & Events** | RabbitMQ · WebSockets · Webhooks · Socket.io |
-| 🗄️ **Data & Cache** | PostgreSQL · MongoDB · Redis · MySQL · Prisma ORM |
-| 🚀 **DevOps & CI/CD** | Docker · Kubernetes · Argo CD · GitHub Actions · GitOps |
-| ☁️ **Cloud & Infra** | AWS · GCP · Vercel · Cloudflare · Traefik · Nginx |
-| 🤖 **AI & Automation** | OpenAI SDK · AI Agents · Process Automation |
-
----
-
 ## 🚀 Building in Public
 
 ### [PulseChat](https://www.pulsechat.app.br/) — WhatsApp SaaS & CRM
@@ -68,6 +54,7 @@ WhatsApp SaaS/CRM with AI-powered automation, workflow builder, mass messaging a
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -75,6 +62,12 @@ WhatsApp SaaS/CRM with AI-powered automation, workflow builder, mass messaging a
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**Testing & Automation**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
 
@@ -113,10 +106,10 @@ WhatsApp SaaS/CRM with AI-powered automation, workflow builder, mass messaging a
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="200" src="https://github-stats-alpha.vercel.app/api?username=GitDavidJr&cc=0d1117&tc=38bdf8&ic=1d4ed8&bc=0d1117" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=GitDavidJr&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
+<table align="center"><tr>
+  <td><img src="https://github-stats-alpha.vercel.app/api?username=GitDavidJr&cc=0d1117&tc=38bdf8&ic=1d4ed8&bc=0d1117" /></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=GitDavidJr&theme=tokyonight&hide_border=true&background=0d1117" /></td>
+</tr></table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitDavidJr&theme=tokyonight&bg_color=0d1117&color=38bdf8&line=1d4ed8&point=7dd3fc&hide_border=true&area=true" width="100%"/>
