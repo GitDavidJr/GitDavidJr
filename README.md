@@ -114,8 +114,8 @@ WhatsApp SaaS/CRM with AI-powered automation, workflow builder, mass messaging a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=GitDavidJr&cc=0d1117&tc=38bdf8&ic=1d4ed8&bc=0d1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitDavidJr&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img height="200" src="https://github-stats-alpha.vercel.app/api?username=GitDavidJr&cc=0d1117&tc=38bdf8&ic=1d4ed8&bc=0d1117" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=GitDavidJr&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 <div align="center">
