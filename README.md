@@ -27,7 +27,7 @@ focus:
 
 | Domain | Stack |
 |--------|-------|
-| 🏛️ **Backend & APIs** | TypeScript · Node.js · Fastify · NestJS · Go · Python · PHP/Laravel |
+| 🏛️ **Backend & APIs** | TypeScript · Node.js · Fastify · NestJS · Go/Gin · Python · PHP/Laravel · Spring |
 | 🎨 **Frontend** | React · Next.js · Vue.js · Nuxt · Tailwind CSS · Shadcn/UI |
 | 🔄 **Messaging & Events** | RabbitMQ · WebSockets · Webhooks · Socket.io |
 | 🗄️ **Data & Cache** | PostgreSQL · MongoDB · Redis · MySQL · Prisma ORM |
@@ -45,12 +45,7 @@ focus:
 
 **Backend**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark)](https://skillicons.dev)
-
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,laravel&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
@@ -59,9 +54,6 @@ focus:
 **DevOps & Infrastructure**
 
 [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,linux,cloudflare&theme=dark)](https://skillicons.dev)
-
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 
 **Databases & Cache**
 
@@ -74,11 +66,6 @@ focus:
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitDavidJr&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitDavidJr&theme=tokyonight&hide_border=true&layout=compact" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitDavidJr&theme=tokyonight&hide_border=true" />
