@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=David%20J%C3%BAnior&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Tech%20Lead&descAlignY=56&descSize=18&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f2d,100:1a4a5a&height=200&section=header&text=David%20J%C3%BAnior&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Tech%20Lead&descAlignY=56&descSize=18&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 
@@ -116,4 +116,4 @@ focus:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f2d,100:1a4a5a&height=100&section=footer" width="100%"/>
