@@ -37,6 +37,20 @@ focus:
 
 ---
 
+## 🚀 Building in Public
+
+### [PulseChat](https://www.pulsechat.app.br/) — WhatsApp SaaS & CRM
+
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge&logoColor=white)
+![MRR](https://img.shields.io/badge/MRR-R%241.500%2B-6366f1?style=for-the-badge&logoColor=white)
+![Time](https://img.shields.io/badge/3_months-to_first_MRR-f59e0b?style=for-the-badge&logoColor=white)
+
+WhatsApp SaaS/CRM with AI-powered automation, workflow builder, mass messaging and multi-tenant architecture — built from zero to R$1,500 MRR in 3 months as a solo founder.
+
+`Node.js` `Next.js` `MongoDB` `Socket.io` `OpenAI` `AWS` `Vercel` `Cloudflare` `Docker`
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
