@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=David%20J%C3%BAnior&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20DevOps&descAlignY=56&descSize=18&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=David%20J%C3%BAnior&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20DevOps&descAlignY=56&descSize=18&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%7C+Backend-Focused;Tech+Lead+%26+System+Architect;Microservices+%7C+Event-Driven+Architecture;TypeScript+%7C+Node.js+%7C+Go+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&width=640&lines=Software+Engineer+%7C+Full+Stack;Tech+Lead+%26+System+Architect;Microservices+%7C+Event-Driven+Architecture;TypeScript+%7C+Node.js+%7C+Go+%7C+Python)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 ## 🧠 About Me
 
 ```yaml
-role:     Full Stack Developer | Backend-Focused | Tech Lead
+role:     Software Engineer | Full Stack | Tech Lead
 location: Bahia, Brazil
 education: B.Sc. Information Systems — IFBA (7th semester · Dec/2026)
 focus:
@@ -84,4 +84,4 @@ focus:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
